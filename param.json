@@ -1,0 +1,17 @@
+{
+ 
+    "NAME" : "Lucy",
+  
+    "AGE" : "18",
+  
+    "PHONE_NUMBER" : "13912345678",
+  
+    "ADDRESS" : "Haidian Beijing",
+  
+    "EMAIL" : "lucy@demo.com",
+  
+    "GENDER" : "male",
+  
+    "IS_MARRY" : false
+  
+ }
